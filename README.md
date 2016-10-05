@@ -1,4 +1,7 @@
 # DeepSurv_Keras
-DeepSurv code for keras
+DeepSurv code using keras
 
 Original code: https://github.com/jaredleekatzman/DeepSurv
+
+Deep learning for survival analysis using keras.
+
